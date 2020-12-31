@@ -1,0 +1,12 @@
+Computer Organization and Design RISC-V Edition: The Hardware Software Interface
+David A. Patterson, John L. Hennessy
+
+
+*****Caution*****
+There are some errors in the textbook (RISC-V Edition)
+
+p.248 The funct7 field in instruction "sra" should be corrected from "0000000" to "0100000"  
+p.1394 Appendix C is for MIPS architecture, not for RISC-V.
+
+
+Official website: https://riscv.org/risc-v-cores/
